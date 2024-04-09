@@ -76,7 +76,7 @@ To get started with Kiya, follow these steps:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd KiyaWomenApp
+    cd kiya
     ```
 
 3. **Install dependencies:**
