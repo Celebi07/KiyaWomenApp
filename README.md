@@ -44,21 +44,18 @@ In many societies, women face unique challenges related to safety, education, an
 - **Empowerment through Employment**: By offering employment opportunities for women drivers, Kiya promotes gender equality and economic empowerment.
 
 ## Glimpse 📱
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo12.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo11.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo5.jpg" width="300px" height="600px" alt="Kiya Preview">  
-<br><br>
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo1.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo2.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo3.jpg" width="300px" height="600px" alt="Kiya Preview">  
-<br><br>
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo4.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo6.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo7.jpg" width="300px" height="600px" alt="Kiya Preview">  
-<br><br>
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo9.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo8.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo10.jpg" width="300px" height="600px" alt="Kiya Preview">
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo12.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo11.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo5.jpg" width="300px" height="600px" alt="Kiya Preview"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo1.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo2.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo3.jpg" width="300px" height="600px" alt="Kiya Preview">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo4.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo6.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo7.jpg" width="300px" height="600px" alt="Kiya Preview">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo9.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo8.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo10.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Demo Video
 
