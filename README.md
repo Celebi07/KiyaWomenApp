@@ -43,6 +43,12 @@ In many societies, women face unique challenges related to safety, education, an
 - **Safety First**: Kiya's online cab booking system prioritizes safety by exclusively employing women drivers, ensuring a secure travel experience for all users.
 - **Empowerment through Employment**: By offering employment opportunities for women drivers, Kiya promotes gender equality and economic empowerment.
 
+## Glimpse 📱
+
+## Demo Video
+
+Checkout - https://youtu.be/2k8vg5LWDKc?si=2lk5qSyJ9HVXnysr
+
 ## Get Started 🚀
 
 To get started with Kiya, follow these steps:
@@ -70,3 +76,11 @@ To get started with Kiya, follow these steps:
     ```bash
     flutter run
     ```
+## Try Kiya
+
+**Try out our app now!** You can download the latest version from the [GitHub Releases](https://github.com/Celebi07/KiyaWomenApp/releases/tag/latest) section. Simply download the APK file and follow the installation instructions.
+
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/Celebi07/KiyaWomenApp?tab=MIT-1-ov-file).
